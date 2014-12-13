@@ -1,0 +1,6 @@
+C:\Users\iMix\Desktop\iBot\obj\Debug\iBot.csprojResolveAssemblyReference.cache
+C:\Users\iMix\Desktop\iBot\bin\Debug\iBot.exe.config
+C:\Users\iMix\Desktop\iBot\bin\Debug\iBot.exe
+C:\Users\iMix\Desktop\iBot\bin\Debug\iBot.pdb
+C:\Users\iMix\Desktop\iBot\obj\Debug\iBot.exe
+C:\Users\iMix\Desktop\iBot\obj\Debug\iBot.pdb
